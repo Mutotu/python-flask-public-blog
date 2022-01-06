@@ -1,5 +1,5 @@
 # Public blog... in flask!
-It's throwback Tuesday! Remember this gem? https://github.com/SEI-ATL-3-8/public-blog
+It's throwback Thursday! Remember this gem? https://git.generalassemb.ly/SEIR-1011/express-public-blog
 
 ### Overview
 We will build a flask app that provides a backend for a public blog. We need to satisfy all the following use cases:
